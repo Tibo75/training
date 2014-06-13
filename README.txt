@@ -8,4 +8,4 @@ projet va aussi
 devoir d√©ter sous peu. Un syst√® de versioning va devenir plus qu'important.
 L'objectif principal est de mettre en place et g√©r les premiers √©nements de ce
 d√©t git.
-Les t‚ches techniques ‡ effectuer sont dans le fichier TODO.txt
+Le site est disponible ‡ l'adresse http://www.resanet.com/resaroute/
